@@ -1,0 +1,22 @@
+# Python temporários
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes Virtuais
+venv/
+env/
+ENV/
+
+# Banco de dados (Opcional - remova se quiser subir um banco base)
+*.db
+*.sqlite
+
+# IDEs
+.vscode/
+.idea/
+
+# Arquivos de distribuição/compilação
+dist/
+build/
+*.exe
